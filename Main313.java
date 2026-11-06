@@ -15,7 +15,7 @@ public class Main313 {
             if (parte1 <= 59 && parte1 >= 0) {
                 System.out.println("Buenos días");
             } else {
-                System.out.println("Introduce una hora correcta");
+                System.out.println("Pon una hora correcta");
             }
         } else if (parte0 >= 12 && parte0 <= 19 || hora.equals("20:00")) {
             if (parte1 <= 59 && parte1 >= 0) {
